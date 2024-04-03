@@ -1,5 +1,5 @@
-# NAME: Chandrasekar S
-# REG NO. 212222230025
+ NAME: Chandrasekar S
+ REG NO. 212222230025
 # EX-1: Mean and variance of a discrete  distribution
 
 # Aim : 
